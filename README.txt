@@ -1,5 +1,5 @@
 É necessário que você tenha o node. instalado na sua máquina.
-Auto execução do projeto (fortemente recomendado que o projeto seja clonado a raiz do disco C, para evitar quaisquer problemas):
+Auto execução do projeto (é necessário que o projeto seja clonado a raiz do disco C, ou movido para ela, para a auto execução):
 1º Execute o atalho pm2 Server e aguarde a instalação do servidor.
 2º A aplicação pode ser executada a partir do atalho Start Servers automaticamente.
 3º Para fechar os servidores ‘pm2’ é necessário executar o arquivo Stop Server.
